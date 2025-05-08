@@ -243,4 +243,4 @@ plt.legend()
 ![image](https://github.com/user-attachments/assets/e8af00f8-b2eb-485b-bd1f-4258ab1cefe6)
 
 # Result:
- Include your result here
+Thus the program is executed successfully.
