@@ -233,8 +233,8 @@ plt.axis('equal')
 plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/0257ab88-846c-4b5c-b75f-ed19fcbf30dc)
-``
-`activities=['eat','sleep','work','play']
+```
+activities=['eat','sleep','work','play']
 slices=[3,7,8,6]
 colors=['r','y','g','b']
 plt.pie(slices,labels=activities,colors=colors,startangle=90,shadow=True,explode=(0,0,0.1,0),radius=1.2,autopct='%1.1f%%')
